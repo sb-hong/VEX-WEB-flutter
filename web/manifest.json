@@ -1,5 +1,5 @@
 {
-    "name": "vex_web_flutter",
+    "name": "VEX",
     "short_name": "vex_web_flutter",
     "start_url": ".",
     "display": "standalone",
@@ -9,6 +9,7 @@
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
+        { "src": "icons/favicon.ico", "type": "image/x-icon", "sizes": "16x16 32x32" },
         {
             "src": "icons/Icon-192.png",
             "sizes": "192x192",
